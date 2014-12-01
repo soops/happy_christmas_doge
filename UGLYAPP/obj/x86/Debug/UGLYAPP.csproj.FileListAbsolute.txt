@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\bin\Debug\UGLYAPP.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\bin\Debug\UGLYAPP.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\UGLYAPP.Form1.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\UGLYAPP.Properties.Resources.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\UGLYAPP.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\UGLYAPP\obj\x86\Debug\UGLYAPP.pdb
+C:\Documents and Settings\admin\my documents\visual studio 2010\Projects\UGLYAPP\UGLYAPP\obj\x86\Debug\UGLYAPP.exe
+C:\Documents and Settings\admin\my documents\visual studio 2010\Projects\UGLYAPP\UGLYAPP\obj\x86\Debug\UGLYAPP.pdb
